@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact Hewad Foundation</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(to bottom right, #0f2027, #203a43, #2c5364);
+            color: white;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            font-size: 3em;
+            color: #FFD700;
+        }
+        p {
+            font-size: 1.2em;
+            max-width: 800px;
+            margin: auto;
+            line-height: 1.6em;
+        }
+        .contact-info {
+            margin-top: 30px;
+            font-size: 1.1em;
+        }
+        a {
+            color: #FFD700;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Contact Us</h1>
+    <p>If you need help, want to volunteer, or have questions, feel free to reach out to us through the channels below:</p>
+
+    <div class="contact-info">
+        📧 Email: <a href="mailto:hewad.stanikzay@gmail.com">hewad.stanikzay@gmail.com</a><br>
+        📞 WhatsApp: <a href="https://wa.me/4915226586606" target="_blank">+49 1522 6586606</a><br>
+        💬 Telegram: <a href="https://t.me/hewadfoundation" target="_blank">@hewadfoundation</a><br>
+    </div>
+
+    <p style="margin-top:40px;">
+        We are here to support you with dignity and compassion.
+    </p>
+
+    <a href="index_en.html">← Back to Home</a>
+</body>
+</html>
