@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <title>درخواست کمک – بنیاد خیریه هیواد</title>
+</head>
+<body style="font-family:sans-serif; background:#f7f7f7; padding:40px;">
+
+    <a href="volunteer_donation_en.html" style="background:#dc3545; color:white; 
+        padding:12px 20px; margin-bottom:20px; border-radius:8px; text-decoration:none; 
+        font-weight:bold; display:inline-block;">❤️ Volunteer / Donate</a>
+        <div style="max-width:700px; margin:auto; background:white; padding:30px; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.1);">
+
+        <h2 style="color:#444444;">📌 درخواست کمک</h2>
+
+        <div style="background:#fff8e1; color:#444; border-left:5px solid #ffd700;
+                    padding:15px 20px; border-radius:8px; margin-bottom:20px;">
+            <strong>📷 لطفاً یک عکس از خود یا شرایط زندگی‌تان آپلود کنید</strong><br>
+            اطلاعات شما فقط برای بررسی نیازمندی دریافت می‌شود و نزد تیم بنیاد خیریه محفوظ می‌ماند.
+        </div>
+
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5fyWFRBmSn0s3tFHVUisFSoPizp5Mb_yI6r9Ihnc6t7m-cA/viewform?usp=dialog"
+           target="_blank"
+           style="display:inline-block; background-color:#ffd700; color:#000; font-weight:bold;
+                  padding:15px 30px; border-radius:10px; font-size:16px; text-decoration:none;
+                  box-shadow: 0 4px 6px rgba(0,0,0,0.3); margin: 20px auto; text-align: center;">
+          📝 باز کردن فرم آنلاین درخواست کمک
+        </a>
+
+    </div>
+</body>
+</html>
